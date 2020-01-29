@@ -24,7 +24,7 @@ In this project you'll take take an almost completed e-commerce store and refact
 - [x] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
 - [x] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
